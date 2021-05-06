@@ -32,7 +32,7 @@ yarn run test
 
 * Website: gustavoverdugo.github.io/gverdugo/
 * Github: [@GustavoVerdugo](https://github.com/GustavoVerdugo)
-* LinkedIn: [@gustavo-verdugo-ortiz-37b032168](https://linkedin.com/in/gustavo-verdugo-ortiz-37b032168)
+* LinkedIn: [@GustavoVerdugo](https://linkedin.com/in/gustavo-verdugo-ortiz-37b032168)
 
 ## Show your support
 
